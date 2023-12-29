@@ -1,0 +1,701 @@
+Negocio;Pa’s;Producto;Descuento;PVP;Fecha
+Business;United States of America; IPN ; Base ;1207500;07.01.22
+Business;France; IPE ; No ;962500;02.01.22
+Business;Germany; UPN ; Base ;1038100;10.01.21
+Business;Germany; IPE ; Base ;1038100;10.01.21
+Business;Germany; UPN ; Base ;1006950;10.01.22
+Business;Germany; HEB ; Base ;1006950;10.01.22
+Business;Canada; HEA ; Base ;998200;12.01.22
+Business;Canada; IPN ; Base ;998200;12.01.22
+Business;France; IPE ; Medio ;1006600;09.01.22
+Business;France; HEA ; Base ;754250;12.01.22
+Business;France; IPN ; Base ;754250;12.01.22
+Business;France; UPN ; Base ;761950;10.01.22
+Business;France; HEB ; Base ;761950;10.01.22
+Business;Mexico; HEB ; Base ;679000;12.01.21
+Business;Canada; IPN ; No ;603750;11.01.21
+Business;United States of America; HEB ; Alto ;982450;08.01.22
+Business;Germany; IPE ; Base ;667450;09.01.22
+Business;France; UPN ; Medio ;726600;10.01.21
+Business;France; IPE ; Medio ;726600;10.01.21
+Business;Germany; HEM ; Base ;628950;09.01.21
+Business;Mexico; IPE ; Base ;652750;02.01.22
+Business;Mexico; IPN ; Medio ;845950;01.01.22
+Business;France; HEB ; No ;534450;09.01.21
+Small Business;United States of America; IPN ; Base ;871500;11.01.22
+Business;Germany; HEA ; No ;529550;12.01.22
+Business;Germany; IPN ; No ;529550;12.01.22
+Business;Canada; IPE ; Base ;622300;12.01.21
+Business;Germany; IPN ; Medio ;751100;11.01.21
+Business;Mexico; HEB ; Base ;574700;08.01.22
+Business;United States of America; HEM ; Alto ;809550;05.01.22
+Business;Canada; IPE ; Alto ;784000;02.01.22
+Business;United States of America; IPE ; Medio ;724850;09.01.22
+Business;Mexico; HEA ; Base ;488950;10.01.22
+Business;Mexico; HEB ; Base ;488950;10.01.22
+Small Business;United States of America; HEM ; Base ;749400;09.01.21
+Business;Canada; IPN ; Alto ;921200;06.01.22
+Business;Canada; UPN ; Alto ;921200;06.01.22
+Small Business;United States of America; HEB ; Base ;853200;02.01.22
+Business;Mexico; IPE ; Medio ;587650;09.01.22
+Business;United States of America; HEA ; Medio ;616350;03.01.22
+Small Business;United States of America; IPN ; Base ;875400;05.01.22
+Business;Canada; IPN ; Alto ;736575;07.01.22
+Small Business;United States of America; HEM ; Base ;690300;04.01.22
+Small Business;France; HEB ; No ;645300;09.01.22
+Business;Mexico; IPN ; Alto ;997850;05.01.22
+Business;Mexico; HEA ; Base ;423500;03.01.22
+Business;France; IPN ; Medio ;523600;06.01.22
+Business;France; UPN ; Medio ;523600;06.01.22
+Business;Germany; HEB ; Alto ;654500;12.01.21
+Business;Germany; HEM ; Medio ;511000;05.01.22
+Business;France; HEM ; Medio ;484575;01.01.22
+Small Business;Canada; HEB ; No ;600300;02.01.22
+Small Business;France; IPN ; Base ;730350;01.01.22
+Business;Germany; IPE ; Medio ;472500;02.01.22
+Business;France; HEM ; Medio ;583100;05.01.22
+Business;Canada; HEM ; Alto ;779625;01.01.22
+Business;Germany; IPN ; No ;352100;06.01.22
+Business;Germany; UPN ; No ;352100;06.01.22
+Business;Canada; IPN ; Medio ;429800;10.01.21
+Business;Canada; IPE ; Medio ;429800;10.01.21
+Small Business;Canada; HEM ; Medio ;1140750;04.01.22
+Small Business;Canada; UPN ; Medio ;1138050;07.01.22
+Business;Mexico; HEA ; Medio ;476700;12.01.22
+Business;Mexico; IPN ; Medio ;476700;12.01.22
+Small Business;Canada; IPN ; Base ;574800;12.01.22
+Small Business;Canada; IPE ; Base ;574800;12.01.22
+Business;Canada; HEB ; Base ;330225;04.01.22
+Business;Mexico; IPN ; Alto ;752850;11.01.21
+Small Business;Mexico; HEB ; Medio ;824100;02.01.22
+Business;France; HEA ; Alto ;626500;03.01.22
+Business;United States of America; HEB ; Medio ;473025;04.01.22
+Business;France; IPN ; Alto ;672700;11.01.21
+Small Business;Canada; HEB ; Medio ;730800;12.01.21
+Small Business;Canada; HEB ; Base ;562200;08.01.22
+Small Business;Germany; HEA ; Base ;606300;10.01.22
+Small Business;Germany; HEM ; Base ;606300;10.01.22
+Business;France; IPN ; Alto ;557900;11.01.22
+Business;Germany; UPN ; Medio ;457450;07.01.22
+Small Business;Germany; IPN ; Base ;518400;05.01.22
+Business;United States of America; IPN ; Alto ;702450;11.01.21
+Business;Canada; UPN ; Medio ;444150;10.01.22
+Business;Canada; IPE ; Medio ;444150;10.01.22
+Small Business;Germany; HEM ; Base ;557700;08.01.22
+Business;Mexico; HEM ; Medio ;343000;04.01.22
+Business;Mexico; UPN ; Alto ;488250;07.01.22
+Small Business;Mexico; IPN ; Medio ;738000;06.01.22
+Small Business;Mexico; IPE ; Medio ;738000;06.01.22
+Small Business;France; HEA ; Medio ;654300;10.01.22
+Small Business;France; HEM ; Medio ;654300;10.01.22
+Small Business;Germany; HEB ; Medio ;797700;02.01.22
+Small Business;United States of America; IPE ; Alto ;897900;03.01.22
+Small Business;Mexico; IPN ; Medio ;769500;01.01.22
+Business;Mexico; IPN ; Alto ;418950;11.01.22
+Small Business;Mexico; IPN ; Medio ;482100;04.01.22
+Small Business;Canada; HEB ; Medio ;640200;09.01.22
+Small Business;Germany; IPN ; Base ;424350;04.01.22
+Business;France; HEB ; Alto ;448350;12.01.21
+Business;Mexico; HEM ; Medio ;252000;09.01.21
+Business;United States of America; IPN ; Medio ;254450;10.01.21
+Business;United States of America; IPE ; Medio ;254450;10.01.21
+Small Business;Canada; IPN ; Medio ;510600;05.01.22
+Business;Germany; HEM ; Alto ;419650;04.01.22
+Small Business;United States of America; IPN ; Alto ;1048500;01.01.22
+Small Business;Mexico; IPE ; Base ;330300;03.01.22
+Business;United States of America; IPN ; Alto ;411950;11.01.22
+Small Business;France; UPN ; Medio ;497700;07.01.22
+Small Business;Mexico; HEM ; No ;287400;08.01.22
+Small Business;Germany; HEA ; Alto ;843300;07.01.22
+Business;United States of America; UPN ; Alto ;345100;10.01.22
+Business;United States of America; HEB ; Alto ;345100;10.01.22
+Small Business;Germany; HEB ; Base ;295800;09.01.22
+Small Business;United States of America; UPN ; Alto ;688200;10.01.21
+Small Business;United States of America; HEB ; Alto ;688200;10.01.21
+Small Business;Germany; UPN ; Medio ;375000;12.01.22
+Small Business;Germany; IPE ; Medio ;375000;12.01.22
+Business;United States of America; HEM ; Alto ;343875;01.01.22
+Business;United States of America; IPN ; Medio ;210700;06.01.22
+Business;United States of America; UPN ; Medio ;210700;06.01.22
+Small Business;United States of America; HEB ; Medio ;560100;09.01.22
+Business;Mexico; HEA ; Alto ;310100;06.01.22
+Business;Mexico; IPN ; Alto ;310100;06.01.22
+Business;Canada; HEA ; Alto ;323050;03.01.22
+Business;Germany; HEA ; Alto ;277200;03.01.22
+Small Business;Canada; IPN ; Medio ;421200;11.01.21
+Small Business;France; HEM ; Medio ;468600;08.01.22
+Small Business;France; IPN ; Base ;275400;05.01.22
+Business;Canada; IPE ; Medio ;193200;08.01.22
+Small Business;United States of America; UPN ; Medio ;411600;12.01.22
+Small Business;United States of America; IPE ; Medio ;411600;12.01.22
+Business;Germany; HEM ; Alto ;268100;01.01.22
+Small Business;Mexico; IPN ; No ;236400;09.01.21
+Small Business;France; UPN ; Medio ;366300;10.01.21
+Small Business;France; HEB ; Medio ;366300;10.01.21
+Business;Canada; IPE ; Alto ;247450;09.01.22
+Small Business;Mexico; HEM ; Medio ;330000;12.01.21
+Business;France; UPN ; Base ;77280;04.01.22
+Business;Canada; UPN ; Base ;77010;04.01.22
+Business;France; HEB ; Medio ;201075;04.01.22
+Business;France; UPN ; Alto ;223650;07.01.22
+Small Business;United States of America; HEA ; Medio ;297300;06.01.22
+Small Business;United States of America; IPN ; Medio ;297300;06.01.22
+Small Business;Canada; HEM ; Medio ;384900;09.01.21
+Small Business;Germany; IPN ; Medio ;336900;09.01.21
+Channel Partners;Canada; IPN ; Alto ;48312;07.01.22
+Small Business;France; IPN ; Medio ;397200;11.01.22
+Small Business;Mexico; IPN ; Alto ;645000;11.01.22
+Business;Canada; HEB ; Alto ;218050;09.01.21
+Business;Canada; IPN ; Alto ;245000;11.01.22
+Small Business;Mexico; UPN ; Alto ;781500;11.01.21
+Small Business;Germany; HEA ; Base ;206700;06.01.22
+Small Business;Germany; IPN ; Base ;206700;06.01.22
+Small Business;France; HEB ; Medio ;287700;02.01.22
+Channel Partners;Canada; IPE ; Alto ;42246;04.01.22
+Business;United States of America; HEB ; Base ;122150;09.01.21
+Channel Partners;Canada; HEB ; Medio ;38934;01.01.22
+Business;Germany; HEB ; Medio ;147700;08.01.22
+Channel Partners;Germany; HEB ; No ;34056;04.01.22
+Business;United States of America; UPN ; Medio ;56640;08.01.22
+Small Business;Canada; HEA ; Medio ;328200;06.01.22
+Small Business;Canada; IPN ; Medio ;328200;06.01.22
+Business;Mexico; IPN ; Medio ;59860;09.01.22
+Small Business;France; HEM ; Alto ;531900;04.01.22
+Business;Canada; UPN ; Base ;52920;09.01.21
+Business;Germany; HEA ; Base ;51600;04.01.22
+Business;United States of America; IPN ; Medio ;53260;12.01.22
+Business;United States of America; HEB ; Medio ;53260;12.01.22
+Channel Partners;France; HEA ; Base ;32052;09.01.22
+Business;France; HEB ; Medio ;133350;08.01.22
+Business;Germany; HEM ; Alto ;59840;10.01.21
+Business;Germany; IPN ; Alto ;59840;10.01.21
+Small Business;Canada; IPN ; Alto ;409800;11.01.22
+Small Business;Mexico; HEA ; Base ;148200;10.01.21
+Small Business;Mexico; HEB ; Base ;148200;10.01.21
+Business;Canada; HEB ; Alto ;58700;11.01.21
+Channel Partners;Canada; HEM ; No ;30216;06.01.22
+Channel Partners;Canada; IPN ; No ;30216;06.01.22
+Channel Partners;United States of America; HEM ; Medio ;32676;11.01.22
+Channel Partners;Mexico; IPN ; Medio ;33156;11.01.21
+Business;United States of America; HEB ; Base ;93100;12.01.21
+Business;France; HEB ; Medio ;53640;11.01.21
+Business;France; UPN ; Alto ;56100;09.01.21
+Channel Partners;Germany; HEB ; Base ;29748;01.01.22
+Channel Partners;United States of America; IPN ; Alto ;34968;10.01.22
+Channel Partners;United States of America; IPE ; Alto ;34968;10.01.22
+Enterprise;Germany; IPE ; No ;527437;04.01.22
+Small Business;United States of America; HEB ; Medio ;242400;12.01.21
+Channel Partners;Canada; IPE ; Alto ;33132;09.01.21
+Business;United States of America; HEA ; Base ;95900;12.01.22
+Business;United States of America; IPN ; Base ;95900;12.01.22
+Business;Germany; HEB ; Medio ;45940;11.01.21
+Business;Mexico; IPE ; Alto ;52580;01.01.22
+Channel Partners;Canada; IPN ; Medio ;29172;12.01.22
+Channel Partners;Canada; UPN ; Medio ;29172;12.01.22
+Small Business;United States of America; HEB ; Alto ;762300;08.01.22
+Small Business;Germany; UPN ; Alto ;760800;11.01.21
+Channel Partners;Mexico; HEM ; Alto ;31932;05.01.22
+Channel Partners;Germany; IPE ; Alto ;30888;08.01.22
+Business;Germany; IPN ; Alto ;54160;02.01.22
+Small Business;United States of America; UPN ; Alto ;738000;07.01.22
+Channel Partners;Germany; HEM ; Medio ;28104;11.01.22
+Business;United States of America; IPN ; Alto ;52820;02.01.22
+Channel Partners;Germany; UPN ; No ;25932;03.01.22
+Channel Partners;United States of America; IPE ; No ;25692;08.01.22
+Business;France; HEA ; Alto ;50430;01.01.22
+Channel Partners;France; HEM ; Medio ;28104;11.01.22
+Channel Partners;Mexico; HEM ; Medio ;28080;01.01.22
+Business;Canada; IPN ; Base ;41480;09.01.22
+Channel Partners;Canada; HEA ; Medio ;27588;10.01.21
+Channel Partners;Canada; IPN ; Medio ;27588;10.01.21
+Small Business;Germany; IPN ; Alto ;407700;11.01.22
+Business;France; HEM ; No ;37980;06.01.22
+Business;France; IPE ; No ;37980;06.01.22
+Business;Canada; IPN ; Alto ;47880;08.01.22
+Channel Partners;France; IPN ; Alto ;29106;07.01.22
+Business;Mexico; HEA ; Alto ;51580;04.01.22
+Channel Partners;Canada; HEM ; Medio ;27852;11.01.22
+Business;Canada; IPN ; No ;36340;12.01.22
+Business;Canada; HEB ; No ;36340;12.01.22
+Channel Partners;France; IPE ; Alto ;29700;08.01.22
+Channel Partners;Germany; HEB ; Medio ;26580;09.01.21
+Business;Mexico; UPN ; Alto ;120400;10.01.21
+Business;Mexico; IPE ; Alto ;120400;10.01.21
+Channel Partners;France; HEB ; Medio ;26808;09.01.21
+Channel Partners;United States of America; IPE ; Base ;23868;09.01.21
+Channel Partners;United States of America; IPE ; No ;23436;04.01.22
+Business;Canada; IPN ; Alto ;48560;03.01.22
+Small Business;France; UPN ; Alto ;255900;12.01.22
+Small Business;France; IPE ; Alto ;255900;12.01.22
+Business;France; HEM ; Medio ;39520;10.01.22
+Business;France; UPN ; Medio ;39520;10.01.22
+Channel Partners;United States of America; HEA ; Base ;23364;09.01.22
+Business;Mexico; HEM ; Alto ;45100;07.01.22
+Small Business;France; HEM ; Alto ;355800;12.01.21
+Channel Partners;Mexico; HEB ; Base ;22992;04.01.22
+Small Business;Mexico; UPN ; Medio ;190500;12.01.22
+Small Business;Mexico; IPE ; Medio ;190500;12.01.22
+Channel Partners;United States of America; HEA ; Base ;22296;02.01.22
+Channel Partners;France; HEM ; Base ;22812;06.01.22
+Channel Partners;France; IPN ; Base ;22812;06.01.22
+Business;Mexico; IPE ; Alto ;40780;05.01.22
+Channel Partners;Canada; IPN ; Alto ;26664;11.01.21
+Business;Germany; IPN ; Medio ;38680;09.01.22
+Business;Canada; IPN ; Medio ;36040;12.01.21
+Business;Canada; HEA ; No ;32370;01.01.22
+Channel Partners;Canada; HEB ; Alto ;25308;05.01.22
+Business;Germany; IPN ; Alto ;124950;11.01.22
+Business;Mexico; HEA ; Medio ;36680;09.01.21
+Channel Partners;France; HEA ; Medio ;22380;02.01.22
+Channel Partners;France; IPN ; Base ;21420;11.01.21
+Business;France; IPN ; Alto ;39080;03.01.22
+Midmarket;France; IPN ; Medio ;57015;04.01.22
+Channel Partners;France; UPN ; Medio ;23604;03.01.22
+Channel Partners;United States of America; HEB ; Medio ;23472;01.01.22
+Business;France; HEM ; Medio ;35140;10.01.21
+Business;France; IPN ; Medio ;35140;10.01.21
+Channel Partners;Canada; HEA ; Medio ;22608;08.01.22
+Business;United States of America; HEM ; Base ;31320;10.01.22
+Business;United States of America; UPN ; Base ;31320;10.01.22
+Channel Partners;Canada; HEA ; Alto ;23244;02.01.22
+Small Business;Canada; IPN ; Alto ;261900;01.01.22
+Channel Partners;United States of America; IPE ; Alto ;24180;12.01.21
+Business;France; UPN ; Medio ;31580;08.01.22
+Channel Partners;France; HEB ; Medio ;20862;04.01.22
+Enterprise;United States of America; UPN ; No ;352625;08.01.22
+Business;France; HEA ; Medio ;31260;05.01.22
+Channel Partners;Germany; IPN ; Medio ;21300;11.01.21
+Channel Partners;Germany; HEM ; No ;18540;06.01.22
+Channel Partners;Germany; UPN ; No ;18540;06.01.22
+Business;Mexico; IPE ; Medio ;33880;11.01.22
+Business;France; HEM ; Base ;27510;07.01.22
+Midmarket;United States of America; IPN ; Medio ;55125;04.01.22
+Enterprise;Canada; HEM ; No ;333187;07.01.22
+Channel Partners;France; HEB ; Alto ;20808;01.01.22
+Business;Germany; HEA ; No ;26420;01.01.22
+Business;France; IPN ; Medio ;30700;09.01.22
+Channel Partners;Germany; IPE ; Alto ;21240;12.01.21
+Business;Mexico; HEM ; Alto ;34300;10.01.21
+Business;Mexico; IPN ; Alto ;34300;10.01.21
+Channel Partners;United States of America; HEB ; Alto ;21672;05.01.22
+Small Business;France; HEA ; Medio ;134400;06.01.22
+Small Business;France; IPN ; Medio ;134400;06.01.22
+Business;United States of America; IPE ; Alto ;94500;02.01.22
+Small Business;United States of America; UPN ; Alto ;772200;11.01.21
+Channel Partners;Canada; HEA ; Base ;17340;09.01.22
+Business;Germany; IPE ; Medio ;30400;11.01.22
+Business;United States of America; HEA ; Alto ;34860;05.01.22
+Channel Partners;Germany; HEA ; Medio ;18960;09.01.22
+Business;Canada; IPN ; Medio ;27780;10.01.21
+Business;Canada; HEB ; Medio ;27780;10.01.21
+Channel Partners;United States of America; UPN ; Base ;17580;03.01.22
+Midmarket;France; HEB ; Alto ;58117;07.01.22
+Small Business;France; IPE ; Alto ;742500;03.01.22
+Midmarket;Mexico; IPN ; No ;37080;09.01.22
+Midmarket;Mexico; HEA ; No ;37050;06.01.22
+Midmarket;Mexico; HEM ; No ;37050;06.01.22
+Business;United States of America; UPN ; Medio ;28420;12.01.21
+Midmarket;France; UPN ; Alto ;59962;01.01.22
+Midmarket;Mexico; UPN ; Medio ;42915;01.01.22
+Small Business;Canada; HEA ; Alto ;448800;10.01.22
+Small Business;Canada; HEB ; Alto ;448800;10.01.22
+Business;United States of America; IPE ; Base ;24720;11.01.22
+Midmarket;Mexico; HEA ; Medio ;41865;11.01.22
+Channel Partners;United States of America; IPN ; Base ;16434;07.01.22
+Small Business;Mexico; IPN ; Alto ;177300;05.01.22
+Business;France; IPN ; Medio ;26060;02.01.22
+Midmarket;Canada; HEA ; Medio ;42660;06.01.22
+Midmarket;Canada; HEB ; Medio ;42660;06.01.22
+Business;Germany; IPN ; Alto ;30620;12.01.22
+Business;Germany; HEB ; Alto ;30620;12.01.22
+Midmarket;United States of America; IPN ; Medio ;43965;09.01.21
+Business;Germany; IPN ; Medio ;27320;06.01.22
+Business;Germany; IPE ; Medio ;27320;06.01.22
+Small Business;Germany; IPE ; Base ;77700;03.01.22
+Business;United States of America; HEB ; Medio ;25300;11.01.21
+Channel Partners;Canada; HEA ; Base ;15540;10.01.22
+Channel Partners;Canada; IPN ; Base ;15540;10.01.22
+Midmarket;France; IPN ; Base ;34440;02.01.22
+Midmarket;France; IPN ; Medio ;39300;09.01.22
+Midmarket;Canada; IPN ; Base ;35445;02.01.22
+Channel Partners;Mexico; IPE ; Medio ;16500;12.01.21
+Midmarket;France; HEA ; No ;32670;06.01.22
+Midmarket;France; HEB ; No ;32670;06.01.22
+Business;United States of America; HEM ; Medio ;25640;06.01.22
+Business;United States of America; IPE ; Medio ;25640;06.01.22
+Midmarket;Canada; IPN ; No ;32280;12.01.21
+Midmarket;Mexico; HEM ; Base ;33210;03.01.22
+Midmarket;United States of America; IPE ; Alto ;47992;07.01.22
+Channel Partners;France; IPN ; Alto ;16716;10.01.22
+Channel Partners;France; IPE ; Alto ;16716;10.01.22
+Small Business;France; UPN ; Medio ;115800;11.01.21
+Channel Partners;United States of America; HEM ; Base ;13704;06.01.22
+Channel Partners;United States of America; IPN ; Base ;13704;06.01.22
+Midmarket;France; IPN ; Base ;33915;12.01.21
+Business;Mexico; HEB ; Medio ;22460;11.01.21
+Business;United States of America; HEA ; Medio ;22350;01.01.22
+Business;United States of America; IPN ; Base ;21120;09.01.22
+Business;Canada; IPE ; Medio ;22360;11.01.22
+Midmarket;Mexico; UPN ; Medio ;39420;04.01.22
+Midmarket;France; HEM ; Medio ;37515;03.01.22
+Channel Partners;Mexico; IPN ; Base ;13008;12.01.22
+Channel Partners;Mexico; UPN ; Base ;13008;12.01.22
+Channel Partners;Mexico; IPE ; Medio ;13476;08.01.22
+Small Business;Germany; HEA ; Base ;64200;10.01.21
+Small Business;Germany; HEB ; Base ;64200;10.01.21
+Channel Partners;Germany; HEA ; Medio ;13392;02.01.22
+Business;Mexico; IPN ; Alto ;24660;12.01.22
+Business;Mexico; HEB ; Alto ;24660;12.01.22
+Business;France; UPN ; Medio ;20660;12.01.21
+Business;Canada; HEM ; Alto ;24980;10.01.22
+Business;Canada; IPN ; Alto ;24980;10.01.22
+Channel Partners;France; IPN ; Base ;12660;12.01.22
+Channel Partners;France; UPN ; Base ;12660;12.01.22
+Channel Partners;France; HEA ; Alto ;14376;10.01.21
+Channel Partners;France; IPN ; Alto ;14376;10.01.21
+Midmarket;United States of America; IPN ; Base ;28875;12.01.21
+Business;France; IPE ; Base ;18820;11.01.22
+Enterprise;France; UPN ; No ;225500;02.01.22
+Midmarket;United States of America; IPN ; Medio ;32970;08.01.22
+Midmarket;Germany; IPN ; Medio ;31740;12.01.21
+Midmarket;Mexico; HEM ; Base ;30465;10.01.22
+Midmarket;Mexico; IPN ; Base ;30465;10.01.22
+Small Business;Germany; IPN ; Alto ;242100;01.01.22
+Midmarket;Germany; IPN ; Base ;29175;10.01.21
+Midmarket;Germany; HEB ; Base ;29175;10.01.21
+Business;Germany; UPN ; Medio ;20020;08.01.22
+Business;Mexico; IPN ; Alto ;22440;03.01.22
+Business;United States of America; IPN ; Base ;31447;04.01.22
+Midmarket;Canada; HEM ; Base ;29505;03.01.22
+Small Business;Mexico; HEB ; Alto ;129600;09.01.22
+Midmarket;Canada; HEA ; Alto ;40335;11.01.22
+Business;Mexico; IPN ; Medio ;20760;06.01.22
+Business;Mexico; IPE ; Medio ;20760;06.01.22
+Midmarket;United States of America; HEA ; Medio ;30450;11.01.22
+Midmarket;France; IPN ; Medio ;31515;08.01.22
+Channel Partners;United States of America; IPN ; No ;10944;11.01.21
+Business;Canada; HEM ; Alto ;70000;05.01.22
+Midmarket;United States of America; IPE ; Alto ;38220;11.01.21
+Business;Germany; IPN ; Alto ;23160;03.01.22
+Small Business;United States of America; HEA ; Alto ;303000;10.01.22
+Small Business;United States of America; HEB ; Alto ;303000;10.01.22
+Business;United States of America; IPN ; Medio ;19460;03.01.22
+Channel Partners;Canada; HEA ; Base ;10896;12.01.21
+Midmarket;United States of America; HEA ; Alto ;38505;06.01.22
+Midmarket;United States of America; HEB ; Alto ;38505;06.01.22
+Business;Canada; HEA ; Base ;16620;05.01.22
+Midmarket;France; UPN ; Alto ;42390;05.01.22
+Channel Partners;Mexico; HEB ; Alto ;12060;09.01.21
+Small Business;Germany; HEM ; Medio ;100200;12.01.21
+Business;France; IPN ; Base ;27615;01.01.22
+Midmarket;France; IPN ; Alto ;32505;10.01.21
+Midmarket;France; HEB ; Alto ;32505;10.01.21
+Channel Partners;Germany; IPN ; Alto ;12156;12.01.22
+Channel Partners;Germany; UPN ; Alto ;12156;12.01.22
+Small Business;France; HEM ; Medio ;96600;09.01.21
+Channel Partners;France; HEB ; Base ;10392;05.01.22
+Midmarket;United States of America; IPN ; Base ;22710;02.01.22
+Business;Canada; IPN ; Base ;29757;01.01.22
+Midmarket;France; HEM ; Alto ;31080;12.01.22
+Midmarket;France; IPE ; Alto ;31080;12.01.22
+Midmarket;Mexico; HEM ; Alto ;32355;12.01.22
+Midmarket;Mexico; IPE ; Alto ;32355;12.01.22
+Midmarket;Canada; IPN ; Alto ;37050;09.01.21
+Midmarket;Germany; IPN ; Medio ;26145;08.01.22
+Small Business;Canada; IPE ; Alto ;266400;03.01.22
+Midmarket;Canada; IPN ; Alto ;38385;08.01.22
+Channel Partners;Germany; HEB ; Medio ;10560;05.01.22
+Business;Mexico; IPN ; Alto ;18100;10.01.22
+Business;Mexico; UPN ; Alto ;18100;10.01.22
+Enterprise;Mexico; IPN ; Base ;227875;07.01.22
+Enterprise;Canada; IPN ; Base ;341125;12.01.22
+Enterprise;Canada; HEB ; Base ;341125;12.01.22
+Channel Partners;Germany; HEA ; Base ;9192;10.01.21
+Channel Partners;Germany; IPN ; Base ;9192;10.01.21
+Business;United States of America; UPN ; Base ;14720;09.01.21
+Midmarket;Canada; HEA ; Alto ;34500;12.01.22
+Midmarket;Canada; HEM ; Alto ;34500;12.01.22
+Midmarket;Mexico; IPN ; Base ;22710;10.01.21
+Midmarket;Mexico; HEB ; Base ;22710;10.01.21
+Midmarket;Mexico; IPN ; Alto ;29760;08.01.22
+Channel Partners;United States of America; IPN ; Alto ;10968;12.01.22
+Channel Partners;United States of America; UPN ; Alto ;10968;12.01.22
+Enterprise;France; HEB ; Base ;218000;11.01.22
+Small Business;Mexico; HEA ; Alto ;240300;07.01.22
+Midmarket;Germany; UPN ; Medio ;22950;05.01.22
+Business;Canada; HEB ; Alto ;17310;07.01.22
+Channel Partners;Mexico; HEM ; Base ;8280;11.01.22
+Midmarket;Canada; IPE ; Medio ;24457;07.01.22
+Business;Canada; HEM ; Medio ;14160;06.01.22
+Business;Canada; IPE ; Medio ;14160;06.01.22
+Channel Partners;Mexico; HEA ; Medio ;8724;02.01.22
+Enterprise;Germany; IPE ; Base ;284500;05.01.22
+Business;Germany; HEA ; Medio ;13260;05.01.22
+Midmarket;Mexico; IPE ; Alto ;28050;11.01.21
+Business;Germany; HEM ; Medio ;12900;07.01.22
+Enterprise;Mexico; IPN ; Base ;268125;10.01.21
+Enterprise;Mexico; UPN ; Base ;268125;10.01.21
+Enterprise;France; HEA ; Base ;530437;04.01.22
+Business;Mexico; UPN ; Medio ;12180;08.01.22
+Midmarket;Canada; HEA ; Alto ;23400;11.01.21
+Business;Mexico; UPN ; Base ;10880;12.01.21
+Midmarket;United States of America; IPN ; Alto ;26505;09.01.22
+Business;Germany; UPN ; Medio ;11760;12.01.21
+Midmarket;Canada; IPN ; Alto ;26145;10.01.21
+Midmarket;Canada; IPE ; Alto ;26145;10.01.21
+Midmarket;Canada; UPN ; Medio ;18930;05.01.22
+Business;Canada; HEA ; Base ;19957;10.01.21
+Business;Canada; HEM ; Base ;19957;10.01.21
+Business;United States of America; HEA ; Base ;17703;07.01.22
+Midmarket;Mexico; IPN ; No ;14610;02.01.22
+Channel Partners;Canada; UPN ; Medio ;7176;03.01.22
+Midmarket;Canada; IPN ; Alto ;23475;10.01.22
+Midmarket;Canada; HEB ; Alto ;23475;10.01.22
+Midmarket;United States of America; IPN ; Medio ;17295;10.01.22
+Midmarket;United States of America; HEB ; Medio ;17295;10.01.22
+Channel Partners;Mexico; HEA ; Medio ;6744;09.01.22
+Midmarket;Germany; HEM ; No ;13815;03.01.22
+Channel Partners;Mexico; HEM ; Alto ;7248;06.01.22
+Channel Partners;Mexico; UPN ; Alto ;7248;06.01.22
+Midmarket;France; IPN ; Medio ;18405;10.01.22
+Midmarket;France; HEB ; Medio ;18405;10.01.22
+Midmarket;Germany; HEA ; No ;13320;06.01.22
+Midmarket;Germany; HEB ; No ;13320;06.01.22
+Midmarket;Canada; IPN ; Alto ;24210;04.01.22
+Business;Mexico; IPN ; Medio ;18823;10.01.22
+Business;Mexico; HEB ; Medio ;18823;10.01.22
+Midmarket;Germany; HEA ; Alto ;22695;11.01.22
+Business;United States of America; UPN ; Alto ;12120;04.01.22
+Business;Germany; HEM ; No ;15022;09.01.22
+Channel Partners;Mexico; IPN ; Alto ;6852;07.01.22
+Business;United States of America; UPN ; Medio ;20349;06.01.22
+Business;United States of America; IPE ; Medio ;20349;06.01.22
+Enterprise;Mexico; HEM ; Base ;207500;11.01.21
+Business;France; HEA ; Medio ;17409;12.01.22
+Business;France; HEB ; Medio ;17409;12.01.22
+Business;Canada; UPN ; Base ;14644;11.01.21
+Business;France; HEA ; Base ;15015;11.01.21
+Business;France; IPE ; Alto ;23950;07.01.22
+Business;Canada; IPN ; Medio ;16443;09.01.21
+Business;United States of America; IPN ; Medio ;16289;05.01.22
+Business;United States of America; IPN ; Base ;14091;12.01.21
+Business;United States of America; HEB ; Medio ;8730;07.01.22
+Channel Partners;Germany; UPN ; Alto ;5664;10.01.22
+Channel Partners;Germany; IPE ; Alto ;5664;10.01.22
+Midmarket;Germany; IPN ; Base ;11205;09.01.22
+Channel Partners;Mexico; UPN ; Alto ;6000;03.01.22
+Midmarket;Germany; IPE ; Medio ;14550;11.01.21
+Business;Canada; HEM ; Base ;12810;08.01.22
+Business;France; IPN ; Medio ;14952;12.01.21
+Business;Germany; HEM ; Base ;13706;02.01.22
+Business;Germany; IPN ; Medio ;16863;09.01.21
+Business;Germany; UPN ; Alto ;18655;11.01.22
+Enterprise;Canada; UPN ; Base ;115375;08.01.22
+Business;Germany; IPE ; No ;11802;07.01.22
+Business;Germany; UPN ; Medio ;16366;06.01.22
+Business;Germany; HEB ; Medio ;16366;06.01.22
+Business;Mexico; HEA ; Alto ;18942;11.01.21
+Channel Partners;Germany; IPN ; No ;4404;07.01.22
+Business;Germany; HEA ; Alto ;8840;09.01.21
+Midmarket;Germany; IPN ; Alto ;17625;10.01.22
+Midmarket;Germany; HEB ; Alto ;17625;10.01.22
+Business;Germany; IPN ; Medio ;14875;12.01.21
+Business;Canada; HEM ; Alto ;19138;10.01.22
+Business;Canada; IPE ; Alto ;19138;10.01.22
+Business;Mexico; IPN ; Base ;12320;09.01.21
+Business;France; IPN ; Alto ;17724;04.01.22
+Midmarket;United States of America; HEM ; No ;9225;12.01.22
+Midmarket;United States of America; IPE ; No ;9225;12.01.22
+Business;United States of America; HEA ; Alto ;20972;10.01.21
+Business;United States of America; HEM ; Alto ;20972;10.01.21
+Channel Partners;Mexico; UPN ; Alto ;4920;10.01.22
+Channel Partners;Mexico; IPE ; Alto ;4920;10.01.22
+Business;United States of America; HEM ; Alto ;16296;09.01.22
+Channel Partners;United States of America; HEA ; Alto ;4632;10.01.21
+Channel Partners;United States of America; IPN ; Alto ;4632;10.01.21
+Business;Mexico; UPN ; No ;10451;01.01.22
+Business;Mexico; HEB ; Alto ;20321;03.01.22
+Midmarket;United States of America; IPN ; Base ;10065;10.01.21
+Midmarket;United States of America; IPE ; Base ;10065;10.01.21
+Enterprise;France; IPN ; Base ;98375;06.01.22
+Enterprise;France; HEB ; Base ;98375;06.01.22
+Business;France; IPN ; Alto ;18872;08.01.22
+Business;Canada; IPN ; No ;5840;02.01.22
+Channel Partners;Mexico; HEA ; Medio ;4404;10.01.21
+Channel Partners;Mexico; IPN ; Medio ;4404;10.01.21
+Business;Mexico; HEM ; Alto ;16940;09.01.22
+Business;Mexico; IPN ; Medio ;13622;12.01.21
+Business;Mexico; IPE ; Medio ;11781;07.01.22
+Midmarket;United States of America; UPN ; Alto ;11850;05.01.22
+Midmarket;France; IPN ; No ;8235;09.01.21
+Small Business;Mexico; HEM ; Alto ;163800;10.01.22
+Small Business;Mexico; IPE ; Alto ;163800;10.01.22
+Enterprise;United States of America; IPN ; Base ;90875;06.01.22
+Enterprise;United States of America; HEB ; Base ;90875;06.01.22
+Midmarket;Germany; HEM ; Medio ;10665;12.01.22
+Midmarket;Germany; IPE ; Medio ;10665;12.01.22
+Business;Canada; HEB ; Base ;9282;03.01.22
+Enterprise;Canada; IPN ; Base ;251125;10.01.22
+Enterprise;Canada; UPN ; Base ;251125;10.01.22
+Enterprise;United States of America; HEM ; Base ;82875;10.01.21
+Enterprise;United States of America; UPN ; Base ;82875;10.01.21
+Channel Partners;France; IPE ; Medio ;3672;12.01.21
+Business;Mexico; IPN ; Alto ;17745;04.01.22
+Business;Canada; UPN ; Medio ;11074;12.01.22
+Business;Canada; HEB ; Medio ;11074;12.01.22
+Midmarket;Germany; UPN ; Alto ;10215;01.01.22
+Business;Mexico; UPN ; Medio ;10486;06.01.22
+Business;Mexico; HEB ; Medio ;10486;06.01.22
+Midmarket;United States of America; UPN ; Medio ;8325;01.01.22
+Business;Germany; IPN ; Medio ;11186;08.01.22
+Business;United States of America; IPN ; No ;8001;10.01.22
+Business;United States of America; IPE ; No ;8001;10.01.22
+Business;Germany; IPN ; Medio ;9604;01.01.22
+Midmarket;Mexico; HEB ; Alto ;9615;07.01.22
+Business;Canada; UPN ; Alto ;12656;11.01.22
+Enterprise;Canada; IPN ; Base ;221750;03.01.22
+Business;France; HEM ; Medio ;9821;10.01.21
+Business;France; IPE ; Medio ;9821;10.01.21
+Business;Canada; HEM ; Medio ;11277;12.01.21
+Midmarket;Mexico; UPN ; Alto ;9825;09.01.21
+Midmarket;United States of America; HEM ; Alto ;10155;03.01.22
+Small Business;Canada; UPN ; Alto ;80700;10.01.21
+Small Business;Canada; HEB ; Alto ;80700;10.01.21
+Enterprise;Germany; HEM ; Base ;213250;12.01.22
+Enterprise;Germany; IPN ; Base ;213250;12.01.22
+Business;Mexico; UPN ; Medio ;9331;11.01.22
+Business;France; IPN ; Alto ;5860;12.01.22
+Business;France; HEB ; Alto ;5860;12.01.22
+Enterprise;Germany; IPN ; Base ;101125;10.01.21
+Enterprise;Germany; UPN ; Base ;101125;10.01.21
+Midmarket;Germany; UPN ; Alto ;9900;09.01.21
+Business;France; IPN ; Base ;7210;05.01.22
+Enterprise;Germany; IPN ; Base ;196250;06.01.22
+Enterprise;Germany; HEB ; Base ;196250;06.01.22
+Business;United States of America; HEB ; Alto ;11053;03.01.22
+Business;Germany; IPN ; Alto ;4820;10.01.22
+Business;Germany; UPN ; Alto ;4820;10.01.22
+Business;Germany; HEM ; Medio ;8113;10.01.21
+Business;Germany; IPE ; Medio ;8113;10.01.21
+Business;Mexico; IPN ; Alto ;5200;02.01.22
+Business;United States of America; IPN ; Alto ;5340;10.01.21
+Business;United States of America; HEB ; Alto ;5340;10.01.21
+Midmarket;France; HEA ; Medio ;7350;11.01.22
+Enterprise;Canada; HEA ; Base ;92812;04.01.22
+Business;Germany; IPN ; Medio ;8813;04.01.22
+Midmarket;Germany; UPN ; Alto ;7650;04.01.22
+Business;Mexico; IPN ; No ;6181;08.01.22
+Business;France; IPN ; Alto ;12117;10.01.22
+Business;France; IPE ; Alto ;12117;10.01.22
+Business;Mexico; HEM ; Alto ;12089;10.01.21
+Business;Mexico; IPE ; Alto ;12089;10.01.21
+Business;France; HEB ; Alto ;10437;03.01.22
+Enterprise;Canada; HEM ; No ;43125;10.01.21
+Enterprise;Canada; UPN ; No ;43125;10.01.21
+Business;Canada; UPN ; Medio ;7945;06.01.22
+Business;Canada; IPE ; Medio ;7945;06.01.22
+Business;Germany; HEA ; Medio ;7112;11.01.21
+Enterprise;Mexico; IPN ; Base ;82750;06.01.22
+Enterprise;Mexico; HEB ; Base ;82750;06.01.22
+Enterprise;France; HEM ; Base ;160875;12.01.22
+Enterprise;France; IPN ; Base ;160875;12.01.22
+Business;Germany; IPN ; Medio ;7665;05.01.22
+Business;United States of America; IPN ; Alto ;10069;01.01.22
+Midmarket;France; IPE ; Base ;4815;11.01.21
+Business;France; IPN ; Medio ;7217;09.01.21
+Business;United States of America; HEM ; Alto ;9086;02.01.22
+Midmarket;Germany; HEB ; Alto ;7380;07.01.22
+Business;Mexico; HEM ; Alto ;9576;02.01.22
+Business;France; UPN ; Alto ;8330;06.01.22
+Business;France; IPE ; Alto ;8330;06.01.22
+Midmarket;Canada; UPN ; Alto ;5760;01.01.22
+Enterprise;United States of America; HEA ; Base ;41250;09.01.21
+Business;France; UPN ; Base ;4473;11.01.22
+Midmarket;Mexico; IPN ; Alto ;5700;12.01.21
+Business;Canada; HEA ; Medio ;5733;07.01.22
+Business;United States of America; IPN ; Medio ;4746;08.01.22
+Business;France; HEM ; Base ;3808;09.01.22
+Midmarket;Canada; IPN ; Base ;3270;09.01.22
+Business;United States of America; HEA ; Medio ;3990;12.01.22
+Business;United States of America; HEB ; Medio ;3990;12.01.22
+Midmarket;Mexico; UPN ; Medio ;3675;05.01.22
+Business;United States of America; UPN ; Medio ;3829;11.01.22
+Midmarket;Germany; IPN ; Alto ;4170;02.01.22
+Business;Mexico; HEA ; Medio ;3647;12.01.22
+Business;Mexico; HEB ; Medio ;3647;12.01.22
+Business;Canada; HEM ; Medio ;3416;02.01.22
+Business;Mexico; UPN ; Base ;2534;05.01.22
+Business;Canada; IPN ; Alto ;5061;04.01.22
+Business;Germany; HEB ; Base ;1841;03.01.22
+Business;Germany; IPN ; Medio ;2520;10.01.22
+Business;Germany; HEB ; Medio ;2520;10.01.22
+Business;United States of America; IPN ; Alto ;2660;09.01.21
+Business;United States of America; HEA ; Medio ;1841;11.01.21
+Business;Canada; HEM ; Alto ;2716;09.01.22
+Business;Canada; IPN ; Medio ;1799;05.01.22
+Business;France; HEM ; Alto ;2051;02.01.22
+Business;Germany; HEA ; Alto ;1960;12.01.22
+Business;Germany; HEB ; Alto ;1960;12.01.22
+Enterprise;Mexico; HEM ; Base ;142250;12.01.22
+Enterprise;Germany; IPN ; Base ;99375;03.01.22
+Enterprise;France; IPN ; Base ;373500;07.01.22
+Enterprise;Mexico; IPN ; Base ;142250;12.01.22
+Enterprise;Mexico; IPE ; Base ;134250;04.01.22
+Enterprise;France; IPN ; Medio ;88000;10.01.21
+Enterprise;France; UPN ; Medio ;88000;10.01.21
+Enterprise;Germany; UPN ; Medio ;100875;02.01.22
+Enterprise;United States of America; IPN ; Medio ;107625;10.01.22
+Enterprise;United States of America; UPN ; Medio ;107625;10.01.22
+Enterprise;Germany; HEA ; Medio ;110875;12.01.21
+Enterprise;Canada; UPN ; Medio ;119000;02.01.22
+Enterprise;Mexico; HEB ; Alto ;42625;05.01.22
+Enterprise;France; IPN ; Medio ;298125;03.01.22
+Enterprise;Canada; UPN ; Medio ;70875;09.01.22
+Enterprise;Germany; IPE ; Medio ;124250;09.01.21
+Enterprise;United States of America; IPN ; Medio ;374000;03.01.22
+Enterprise;United States of America; IPE ; Alto ;72375;01.01.22
+Enterprise;United States of America; HEM ; Medio ;453375;07.01.22
+Enterprise;Mexico; HEB ; Alto ;69250;01.01.22
+Enterprise;France; IPE ; Medio ;248437;01.01.22
+Enterprise;Mexico; HEB ; Medio ;109625;11.01.22
+Enterprise;Mexico; IPN ; Medio ;139250;03.01.22
+Enterprise;Canada; IPE ; Medio ;205625;05.01.22
+Enterprise;United States of America; UPN ; Medio ;344375;02.01.22
+Enterprise;Germany; HEB ; Alto ;69000;11.01.22
+Enterprise;Mexico; HEA ; Medio ;192500;08.01.22
+Enterprise;Germany; UPN ; Medio ;260875;09.01.22
+Enterprise;Mexico; IPE ; Alto ;118375;09.01.21
+Enterprise;France; UPN ; Alto ;82875;09.01.22
+Enterprise;Germany; HEM ; Medio ;312500;11.01.21
+Enterprise;France; HEA ; Alto ;185250;12.01.21
+Enterprise;France; HEM ; Medio ;232125;11.01.21
+Enterprise;United States of America; UPN ; Alto ;199500;09.01.22
+Enterprise;France; IPE ; Alto ;179125;05.01.22
+Enterprise;France; HEA ; Alto ;127875;09.01.21
+Enterprise;Germany; IPN ; Medio ;439125;07.01.22
+Enterprise;Mexico; UPN ; Medio ;263750;09.01.22
+Enterprise;United States of America; HEM ; Alto ;225500;11.01.21
+Enterprise;Canada; UPN ; Alto ;239500;12.01.21
+Enterprise;Germany; HEA ; Alto ;135625;10.01.22
+Enterprise;Germany; IPN ; Alto ;135625;10.01.22
+Enterprise;France; HEA ; Alto ;146750;08.01.22
+Enterprise;United States of America; HEM ; Medio ;349625;12.01.22
+Enterprise;United States of America; IPN ; Medio ;349625;12.01.22
+Enterprise;Canada; IPN ; Alto ;197875;06.01.22
+Enterprise;Canada; HEB ; Alto ;197875;06.01.22
+Enterprise;Canada; IPE ; Alto ;207375;01.01.22
+Enterprise;Canada; HEB ; Alto ;316125;11.01.22
+Enterprise;Mexico; UPN ; Alto ;196875;02.01.22
+Enterprise;France; HEA ; Alto ;305125;10.01.22
+Enterprise;France; IPN ; Alto ;305125;10.01.22
+Enterprise;Mexico; HEA ; Alto ;269500;10.01.22
+Enterprise;Mexico; IPN ; Alto ;269500;10.01.22
+Enterprise;United States of America; HEB ; Alto ;298375;11.01.22
+Enterprise;Canada; HEA ; Alto ;302000;09.01.21
+Enterprise;United States of America; HEA ; Alto ;430687;04.01.22
+Enterprise;Germany; IPE ; Alto ;395625;01.01.22
+Enterprise;United States of America; UPN ; Alto ;304750;12.01.21
+Enterprise;Mexico; HEA ; Alto ;352625;12.01.21
+Enterprise;United States of America; IPE ; Alto ;355500;05.01.22
+Enterprise;Germany; HEA ; Alto ;345875;08.01.22
+Enterprise;Canada; HEB ; Alto ;369250;11.01.21
